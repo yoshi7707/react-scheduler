@@ -85,7 +85,7 @@ const mockedSchedulerData: SchedulerData = [
         title: "Project A",
         subtitle: "Subtitle A",
         description: "array indexing Salad West Account",
-        bgColor: "rgb(254,165,177)"
+        bgColor: "rgb(33, 161, 173)"
       },
       {
         id: "22fbe237-6344-4c8e-affb-64a1750f33bd",
