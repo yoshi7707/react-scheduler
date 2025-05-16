@@ -22,7 +22,7 @@ export default function Component() {
   });
   
 
-  const handleRangeChange = useCallback((range) => {
+  const handleRangeChange = useCallback((range: any) => {
     setRange(range);
   }, []);
 
