@@ -79,8 +79,8 @@ const mockedSchedulerData: SchedulerData = [
     data: [
       {
         id: "8b71a8a5-33dd-4fc8-9caa-b4a584ba3762",
-        startDate: new Date("2023-04-13T15:31:24.272Z"),
-        endDate: new Date("2023-08-28T10:28:22.649Z"),
+        startDate: new Date("2025-05-17T15:31:24.272Z"),
+        endDate: new Date("2025-05-28T10:28:22.649Z"),
         occupancy: 3600,
         title: "Project A",
         subtitle: "Subtitle A",
@@ -89,13 +89,13 @@ const mockedSchedulerData: SchedulerData = [
       },
       {
         id: "22fbe237-6344-4c8e-affb-64a1750f33bd",
-        startDate: new Date("2023-10-07T08:16:31.123Z"),
-        endDate: new Date("2023-11-15T21:55:23.582Z"),
+        startDate: new Date("2025-05-23T08:16:31.123Z"),
+        endDate: new Date("2025-06-13T00:00:23.582Z"),
         occupancy: 2852,
-        title: "Project B",
-        subtitle: "Subtitle B",
-        description: "Tuna Home pascal IP drive",
-        bgColor: "rgb(254,165,177)"
+        title: "映画「ドラゴン・ハート」",
+        subtitle: "シャンバラ",
+        description: "地獄界探訪",
+        bgColor: "rgb(42, 150, 73)"
       },
       {
         id: "3601c1cd-f4b5-46bc-8564-8c983919e3f5",
