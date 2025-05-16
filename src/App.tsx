@@ -73,7 +73,7 @@ const mockedSchedulerData: SchedulerData = [
     id: "070ac5b5-8369-4cd2-8ba2-0a209130cc60",
     label: {
       icon: "https://picsum.photos/24",
-      title: "Joe Doe",
+      title: "佐藤由紀子",
       subtitle: "Frontend Developer"
     },
     data: [
@@ -120,11 +120,11 @@ const mockedSchedulerData: SchedulerData = [
         id: "b088e4ac-9911-426f-aef3-843d75e714c2",
         startDate: new Date("2025-05-16T10:08:22.986Z"),
         endDate: new Date("2025-05-18T12:30:30.150Z"),
-        occupancy: 11111,
-        title: "Project E",
-        subtitle: "Subtitle EE",
+        occupancy: 33333,
+        title: "買い物",
+        subtitle: "りんご",
         description: "Garden heavy an software Metal",
-        bgColor: "rgb(254,165,177)"
+        bgColor: "rgb(76, 63, 171)"
       }
     ]
   }
