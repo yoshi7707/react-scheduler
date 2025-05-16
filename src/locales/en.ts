@@ -7,9 +7,9 @@ export const en = {
   taken: "Taken",
   topbar: {
     filters: "Filters",
-    next: "next",
-    prev: "prev",
-    today: "Today",
+    next: "次",
+    prev: "前",
+    today: "今日",
     view: "View"
   },
   search: "search",

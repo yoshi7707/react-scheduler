@@ -54,6 +54,7 @@
     ]
   },
   "dependencies": {
+    "@bitnoi.se/react-scheduler": "^0.3.1",
     "dayjs": "1.11.7",
     "lodash.debounce": "4.0.8",
     "path": "0.12.7",
