@@ -122,7 +122,7 @@ const mockedSchedulerData: SchedulerData = [
         endDate: new Date("2025-05-18T12:30:30.150Z"),
         occupancy: 33333,
         title: "買い物",
-        subtitle: "りんご",
+        subtitle: "🍊",
         description: "Garden heavy an software Metal",
         bgColor: "rgb(76, 63, 171)"
       }
